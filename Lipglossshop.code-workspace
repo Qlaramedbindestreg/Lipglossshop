@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Documents/sass-webshop-Qlaramedbindestreg/css"
+		},
+		{
+			"path": "../../../Documents/sass-webshop-Qlaramedbindestreg/img"
+		},
+		{
+			"path": "../../../Documents/sass-webshop-Qlaramedbindestreg/js"
+		},
+		{
+			"path": "../../../Documents/sass-webshop-Qlaramedbindestreg/public"
+		},
+		{
+			"path": "../../../Documents/sass-webshop-Qlaramedbindestreg/scss"
+		}
+	],
+	"settings": {}
+}
