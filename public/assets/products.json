@@ -1,0 +1,38 @@
+[
+    {
+        "img": "/img/hej.jpeg",
+        "title": "Cyberpunk 2077",
+        "publisher": "CD Projekt",
+        "price": 59.99,
+        "platform": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S"]
+    },
+    {
+        "img": "/img/hej.jpeg",
+      
+        "title": "The Witcher 3: Wild Hunt",
+        "publisher": "CD Projekt",
+        "price": 39.99,
+        "platform": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"]
+    },
+    {
+        "img": "/img/hej.jpeg",
+        "title": "Red Dead Redemption 2",
+        "publisher": "Rockstar Games",
+        "price": 59.99,
+        "platform": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S"]
+    },
+    {
+        "img": "/img/hej.jpeg",
+        "title": "Minecraft",
+        "publisher": "Mojang",
+        "price": 26.95,
+        "platform": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch", "Mobile"]
+    },
+    {
+        "img": "/img/hej.jpeg",
+        "title": "The Elder Scrolls V: Skyrim",
+        "publisher": "Bethesda Softworks",
+        "price": 39.99,
+        "platform": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"]
+    }
+]
