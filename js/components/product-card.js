@@ -1,4 +1,4 @@
-import { addItem, getItems } from './cart.js';
+import { addItem, getItems } from '/cart.js';
 
 export function createProductCard(productInformation) {
     const productContainer = document.createElement('div');
